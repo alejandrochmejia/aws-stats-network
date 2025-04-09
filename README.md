@@ -21,7 +21,7 @@ pip install matplotlib numpy
 
 Ejecutar el script:
 ```bash
-python ip_class_comparison.py
+python stats.py
 ```
 
 ## 📌 Resultados Clave
