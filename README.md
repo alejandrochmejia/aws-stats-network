@@ -47,16 +47,3 @@ El código:
 ## 📄 Licencia
 
 MIT License - Libre para uso y modificación
-```
-
-### Características destacadas:
-1. **Badges visuales** para versiones requeridas
-2. **Instrucciones claras** de instalación y uso
-3. **Explicación técnica** de los resultados
-4. **Contexto AWS** con mejores prácticas reales
-5. **Formato Markdown** listo para GitHub/GitLab
-
-Incluye todo lo necesario para que otros usuarios puedan: 
-- Reproducir el análisis
-- Entender la importancia de los resultados
-- Aplicarlo a sus propios proyectos en la nube
